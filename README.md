@@ -10,7 +10,7 @@ further once I choose a label and click on setlabel , a request is sent to post 
 
 The main issue is I am not using any api for initial population of table with data . A lot improvement is to be made in this but sbmitting here just after 4 to 5 hours of getting assigned becuase of lack of time and other work of company at hand .
 
-I tried using the bolierplate code but it gave me error (may be because of some restrictions of using public code of github).I will attach a file showing screenshot of error that came when i tried running npm i on the boilerplate code.
+I tried using the bolierplate code but it gave me error (may be because of some restrictions of using public code of github).I have attached a file showing screenshot of error that came when i tried running npm i on the boilerplate code.
 
 I haven't deployed my app on heroku due to other work at hand and lack of time but will add screenshots of the functionalities.
 
