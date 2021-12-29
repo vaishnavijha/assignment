@@ -1,7 +1,7 @@
 # assignment
 Prodigal assignment 
 
-chnages not made in this app: 
+changes not made in this app: 
 This is very simple ar present 
 I could not get the api from which calls data were to be taken so the initial table at localhost:3000 is empty but as soon as you filter data starts appearing in the table .
 
