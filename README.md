@@ -1,7 +1,24 @@
 # assignment
 Prodigal assignment 
 
-changes not made in this app: 
+
+checklist of tasks completed : 
+
+table with sorting and pagination.
+
+table with filtering of data based on searched input text.
+
+filtering on the basis of time duration of calls 
+
+filtering on basis of agents where one or more agents can be chosen simultaneously.
+
+selecting of multiple rows or all at once for adding labels .
+
+call to add label api with correct headers and parameters .
+
+
+**changes not made in this app: **
+
 This is very simple ar present 
 I could not get the api from which calls data were to be taken so the initial table at localhost:3000 is empty but as soon as you filter data starts appearing in the table .
 
